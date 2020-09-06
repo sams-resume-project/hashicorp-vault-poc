@@ -1,0 +1,5 @@
+{
+  "VAULT_SCHEME": "https",
+  "VAULT_HOST": "vault.securesite.org",
+  "VAULT_PATH": "v1/supersecretplace"
+}
